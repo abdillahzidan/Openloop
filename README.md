@@ -1,5 +1,6 @@
 # Openloop Bot
 Openloop bot is a simple tool designed to automate the node interaction.
+Join Openloop - https://openloop.so/auth/register?ref=old8c00c36
 
 ## Features
 - **Automated node interaction**
@@ -60,5 +61,5 @@ Dashboard Link : [Dashboard](https://dashboard.teneo.pro/dashboard)
 
 My reff code if you want to use :) : 
 ```bash
-fGgJ4
+old8c00c36
 ```
