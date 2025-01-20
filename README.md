@@ -33,7 +33,7 @@ Join Openloop - https://openloop.so/auth/register?ref=old8c00c36
 2. Configuration:
    Modify the `account.txt` file with your account info
 ```bash
-nano account.txt
+nano accounts.txt
 ```
 And add Your Account Details in this Format
 ```
