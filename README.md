@@ -26,6 +26,9 @@ Join Openloop - https://openloop.so/auth/register?ref=old8c00c36
    ```bash
    npm install
    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
