@@ -49,7 +49,8 @@ http://username:password@ip:port
 python main.py
 ```
 And Select Options As per Your Need
- Press CTRL + `C` to stop the script.
+
+ *Press CTRL + `C` to stop the script.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
