@@ -32,6 +32,10 @@ Join Openloop - https://openloop.so/auth/register?ref=old8c00c36
 1. Set the `account.txt` and `proxy.txt (if you want to use proxy)` before running the script. Below how to setup this fie.
 2. Configuration:
    Modify the `account.txt` file with your account info
+```bash
+nano account.txt
+```
+And add Your Account Details in this Format
 ```
 email1|password1
 email2|password2
