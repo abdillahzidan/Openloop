@@ -1,7 +1,7 @@
 # Openloop Bot
 Openloop bot is a simple tool designed to automate the node interaction.
 
-Join Openloop - https://openloop.so/auth/register?ref=old8c00c36
+Join Openloop - https://openloop.so/auth/register?ref=olf319e1f7
 
 ## Features
 - **Automated node interaction**
@@ -16,7 +16,7 @@ Join Openloop - https://openloop.so/auth/register?ref=old8c00c36
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/Openloop.git
+   git clone https://github.com/abdillahzidan/Openloop.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -70,5 +70,5 @@ Dashboard Link : [Dashboard](https://dashboard.teneo.pro/dashboard)
 
 My reff code if you want to use :) : 
 ```bash
-old8c00c36
+olf319e1f7
 ```
